@@ -1,9 +1,11 @@
 🕘️更新时间,#genre#
-2025-09-18 18:21:04,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=b2f39a8a6bde51405aca53e0ac0f10e9&tm=1757443317
+2025-09-19 06:16:18,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=4504fb617281e8909e4259760d3b64d8&tm=1757535222
+
+📺央视频道,#genre#
 
 💰央视付费频道,#genre#
-风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=b2f39a8a6bde51405aca53e0ac0f10e9&tm=1757443317
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=4504fb617281e8909e4259760d3b64d8&tm=1757535222
+风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=b2f39a8a6bde51405aca53e0ac0f10e9&tm=1757443317
 
 📡卫视频道,#genre#
 
@@ -26,6 +28,7 @@
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 ☘️福建频道,#genre#
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
@@ -58,5 +61,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+
+🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
