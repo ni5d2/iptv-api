@@ -1,11 +1,13 @@
 🕘️更新时间,#genre#
-2026-01-03 06:20:45,http://live.iwcmt.cn:90/live/zhxw.m3u8
+2026-01-03 18:21:20,http://live.iwcmt.cn:90/live/zhxw.m3u8
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
+
+☘️浙江频道,#genre#
 
 ☘️北京频道,#genre#
 
@@ -14,8 +16,6 @@
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
-
-☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
