@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-15 18:27:53,https://cdn3.163189.xyz/163189/cctv13
+2026-02-16 06:24:57,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
@@ -24,6 +24,7 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 ☘️福建频道,#genre#
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
@@ -48,8 +49,8 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
+🪁动画频道,#genre#
+
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-封神榜,https://live.metshop.top/huya/29465849
-射雕英雄传,https://live.metshop.top/huya/23824164
