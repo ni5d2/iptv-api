@@ -1,10 +1,12 @@
 🕘️更新时间,#genre#
-2026-03-30 06:31:04,https://cdn3.163189.xyz/163189/cctv13
+2026-03-30 19:02:07,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 
 📡卫视频道,#genre#
+
+☘️广东频道,#genre#
 
 ☘️北京频道,#genre#
 
@@ -16,6 +18,7 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 ☘️福建频道,#genre#
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
