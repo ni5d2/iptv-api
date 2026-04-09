@@ -1,15 +1,14 @@
 🕘️更新时间,#genre#
-2026-04-09 06:40:44,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+2026-04-09 18:59:16,http://125.42.148.129:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-1,http://125.42.148.129:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-CCTV-2,http://125.42.148.129:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://125.42.148.129:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV-4,http://125.42.148.129:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://125.42.148.129:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-CCTV-7,http://125.42.148.129:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
@@ -19,13 +18,13 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-东南卫视,http://125.42.148.129:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+河南卫视,http://125.42.148.129:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
@@ -35,7 +34,6 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
-天津卫视,http://125.42.148.129:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
@@ -74,11 +72,6 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-
-🏀体育频道,#genre#
-
-🪁动画频道,#genre#
-金鹰卡通,http://125.42.148.129:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎵音乐频道,#genre#
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
