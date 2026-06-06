@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-06 19:26:17,http://live.iwcmt.cn:90/live/zhxw.m3u8
+2026-06-07 07:04:16,http://live.iwcmt.cn:90/live/zhxw.m3u8
 
 📺央视频道,#genre#
 
