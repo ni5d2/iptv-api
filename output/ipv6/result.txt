@@ -1,7 +1,11 @@
 🕘️更新时间,#genre#
-2026-07-18 06:50:07,http://live.iwcmt.cn:90/live/zhxw.m3u8
+2026-07-18 19:04:12,http://live.iwcmt.cn:90/live/zhxw.m3u8
 
 📺央视频道,#genre#
+
+📡卫视频道,#genre#
+
+☘️广东频道,#genre#
 
 ☘️北京频道,#genre#
 
@@ -10,6 +14,8 @@
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
+
+☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
@@ -31,5 +37,9 @@
 
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+
+🏀体育频道,#genre#
+
+🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
