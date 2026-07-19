@@ -1,23 +1,8 @@
 🕘️更新时间,#genre#
-2026-07-19 06:49:56,http://125.42.148.25:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-07-19 19:08:52,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://125.42.148.25:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://125.42.148.232:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://125.42.148.232:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://125.42.148.25:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://125.42.148.114:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://125.42.148.232:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://125.42.148.232:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-13,http://125.42.148.25:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://125.42.148.232:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://125.42.148.25:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-
-📡卫视频道,#genre#
-东南卫视,http://101.66.194.150:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-广西卫视,http://101.66.194.150:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://101.66.194.150:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️北京频道,#genre#
 北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
@@ -46,11 +31,6 @@ CCTV-14,http://125.42.148.25:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&
 ☘️青海频道,#genre#
 
 🌊港·澳·台,#genre#
-
-🏀体育频道,#genre#
-
-🪁动画频道,#genre#
-金鹰卡通,http://101.66.194.177:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎵音乐频道,#genre#
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
