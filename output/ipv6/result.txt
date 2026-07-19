@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-19 19:08:52,http://live.iwcmt.cn:90/live/zhxw.m3u8
+2026-07-20 06:52:04,http://live.iwcmt.cn:90/live/zhxw.m3u8
 
 📺央视频道,#genre#
+
+📡卫视频道,#genre#
 
 ☘️北京频道,#genre#
 
