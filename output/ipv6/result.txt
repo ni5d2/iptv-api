@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-15 06:23:16,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+2026-08-15 18:24:38,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 📺央视频道,#genre#
 
@@ -9,13 +9,9 @@
 
 ☘️广东频道,#genre#
 
-☘️上海频道,#genre#
-
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
-
-☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 
@@ -27,10 +23,14 @@
 
 ☘️安徽频道,#genre#
 
+☘️吉林频道,#genre#
+
 ☘️青海频道,#genre#
 
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+
+🎬电影频道,#genre#
 
 🏀体育频道,#genre#
 
