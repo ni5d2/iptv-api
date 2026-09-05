@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-05 07:46:44,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+2026-09-05 21:16:27,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📺央视频道,#genre#
 
@@ -7,8 +7,6 @@
 
 📡卫视频道,#genre#
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
-
-☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
 
@@ -33,8 +31,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 🎬电影频道,#genre#
 无线星河,http://r.jdshipin.com/Voac4
-
-🏀体育频道,#genre#
 
 🎵音乐频道,#genre#
 
